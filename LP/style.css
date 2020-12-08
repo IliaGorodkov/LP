@@ -1,0 +1,164 @@
+body{
+    background-color: rgb(255, 255, 255);
+  
+}
+
+h1{
+
+    
+    font-family: "Arial";
+    text-align: center;
+    font-size:20px;
+
+}
+
+
+
+button{
+    position: center;
+    border-radius: 50px;
+    width: 160px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(62, 199, 62) ;
+    font-family: "Arial";
+    font-size:15px;
+}
+
+img{
+    
+   
+    border-radius: 10px;
+    width: 130px;
+    height: 100px;
+
+}
+
+.bkcolor{
+    background-color: rgb(57, 79, 179);
+    color: rgb(57, 79, 179);
+    width: 850px;
+
+    
+}
+
+
+
+
+.img{
+background-image: url("7.jpg");
+width: 850px;
+transform: translate(250px);
+height: 700px;
+left: 50%;
+}
+
+.cooloor{
+
+color: rgb(255, 255, 255);
+
+}
+
+.oo{
+    display: inline-block; 
+    margin:20px;
+}
+
+
+
+.p{
+    
+    font-family: "Arial";
+    position:top;
+    font-size:20px;
+}
+.ar{
+    font-size:20px;
+    font-family: "Arial";
+    margin:0 300px; 
+}
+
+
+
+ 
+
+.block {
+
+    transform: translate(600px);
+    margin:0 0 0 377px;
+    left: 50%;
+    
+}
+
+
+.ttty{
+    
+    display: inline-block; 
+    width: 80px;
+    font-size: 16px;
+    text-align:center;
+    margin-right: 20px;
+    margin-left: 100px;
+    
+}
+
+
+
+.buttonn{
+       
+    transform: translate(0px);
+    left: 50%;
+    position: center;
+    border-radius: 50px;
+    width: 220px;
+    height: 60px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(62, 199, 62) ;
+    font-family: "Arial";
+    font-size:15px;
+}
+
+
+
+
+
+
+
+.rev{
+    
+position:absolute;
+top:300px;
+margin:0 0 0 400px;
+
+}
+.revq{
+    
+    position:absolute;
+    top:300px;
+    margin:0 0 0 500px;
+    
+}
+
+
+.hyt{
+    border-style:dashed;
+    padding: 1px;
+    margin: 0;
+    border-bottom-width: 2px; /* Толщина линии внизу */
+ 
+
+}
+
+
+
+/*
+
+margin:0 300px; 
+
+
+style=" margin:0 0 0 300px;   display: inline-block; " 
+
+
+*/
+
+
